@@ -1,0 +1,12 @@
+1 Is there a general increase or decrease in bike-sharing demand over time (yearly/monthly)?
+2 How does bike-sharing demand vary by hour of the day? Are there peak hours?
+3 Is there a seasonal trend in bike-sharing demand? Which season has the highest/lowest demand?
+4 How does weather affect bike-sharing demand? For example, do certain weather conditions (e.g., Clear Skies vs. Rainy) correlate with higher or lower demand?
+5 Does wind speed or humidity significantly impact bike-sharing demand?
+6 How does bike-sharing demand differ on holidays versus non-holidays?
+7 Is there a significant difference in bike-sharing demand on working days compared to weekends?
+8 How does bike-sharing demand vary by day of the week? Is there a consistent pattern across weeks?
+9 How does bike-sharing demand compare across different years? Are there any notable trends or changes?
+10 Is there a significant year-over-year increase or decrease in demand during specific months or seasons?
+11 Which factors have the strongest positive or negative correlation with bike-sharing demand?
+12 Are there thresholds for temperature, humidity, or wind speed beyond which bike-sharing demand drops significantly?
